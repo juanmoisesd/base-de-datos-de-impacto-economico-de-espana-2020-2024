@@ -1,0 +1,23 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Base de Datos de Impacto Econ\u00f3mico de Espa\u00f1a (2020-2024)",
+  "identifier": "10.5281/zenodo.18879794",
+  "url": "https://doi.org/10.5281/zenodo.18879794",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Mois\u00e9s",
+      "familyName": "de la Serna Tuya",
+      "@id": "https://orcid.org/0000-0002-8401-8018"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [
+    "Espa\u00f1a",
+    "macroeconom\u00eda",
+    "PIB",
+    "inflaci\u00f3n",
+    "turismo"
+  ]
+}
