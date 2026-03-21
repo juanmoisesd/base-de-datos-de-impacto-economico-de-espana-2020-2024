@@ -1,0 +1,33 @@
+{
+  "name": "base-de-datos-de-impacto-economico-de-espana-2020-2024",
+  "title": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de Espa&ntilde;a para el per&iacute;odo 2020&ndash;2024. Incluye cinco tablas estructuradas: (1) Indicadores Macroecon&oacute;micos (crecimiento del PIB, inflaci&oacute;n, d",
+  "description": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de Espa&ntilde;a para el per&iacute;odo 2020&ndash;2024. Incluye cinco tablas estructuradas: (1) Indicadores Macroecon&oacute;micos (crecimiento del PIB, inflaci&oacute;n, d",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024"
+    }
+  ],
+  "created": "2026-03-20"
+}
