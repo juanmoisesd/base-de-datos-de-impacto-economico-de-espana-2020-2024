@@ -1,0 +1,46 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@type": "CreativeWork",
+      "@id": "ro-crate-metadata.json",
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.1"
+      },
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@type": [
+        "Dataset"
+      ],
+      "@id": "./",
+      "name": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de Espa&ntilde;a para el per&iacute;odo 2020&ndash;2024. Incluye cinco tablas estructuradas: (1) Indicadores Macroecon&oacute;micos (crecimiento del PIB, inflaci&oacute;n, d",
+      "description": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de Espa&ntilde;a para el per&iacute;odo 2020&ndash;2024. Incluye cinco tablas estructuradas: (1) Indicadores Macroecon&oacute;micos (crecimiento del PIB, inflaci&oacute;n, d",
+      "datePublished": "2026-03-20",
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "author": {
+        "@id": "https://orcid.org/0000-0002-8401-8018"
+      },
+      "url": "https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024",
+      "keywords": "open-data, dataset, research"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "name": "Juan Moisés de la Serna Tuya",
+      "affiliation": {
+        "@id": "https://ror.org/0063t5s24"
+      },
+      "email": "juanmoises.delaserna@unir.net"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "CC0 1.0 Universal"
+    }
+  ]
+}
