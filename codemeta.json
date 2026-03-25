@@ -1,42 +1,26 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de Espa&ntilde;a para el per&iacute;odo 2020&ndash;2024. Incluye cinco tablas estructuradas: (1) Indicadores Macroecon&oacute;micos (crecimiento del PIB, inflaci&oacute;n, d",
-  "description": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de Espa&ntilde;a para el per&iacute;odo 2020&ndash;2024. Incluye cinco tablas estructuradas: (1) Indicadores Macroecon&oacute;micos (crecimiento del PIB, inflaci&oacute;n, d",
-  "url": "https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024",
-  "codeRepository": "https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024",
-  "dateCreated": "2026-03-20",
-  "dateModified": "2026-03-20",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "name": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de Espa&ntilde;a para e",
   "version": "1.0.0",
+  "identifier": "https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024",
+  "datePublished": "2025",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "codeRepository": "https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "familyName": "de la Serna",
       "affiliation": {
         "@type": "Organization",
         "name": "Universidad Internacional de La Rioja (UNIR)"
-      },
-      "email": "juanmoises.delaserna@unir.net"
+      }
     }
   ],
-  "keywords": [
-    "open-data",
-    "dataset",
-    "research"
+  "programmingLanguage": [
+    "Python",
+    "Jupyter Notebook"
   ],
-  "programmingLanguage": "HTML",
-  "maintainer": [
-    {
-      "@type": "Person",
-      "givenName": "Juan Moisés",
-      "familyName": "de la Serna Tuya"
-    }
-  ],
-  "funder": {
-    "@type": "Organization",
-    "name": "Universidad Internacional de La Rioja (UNIR)"
-  }
+  "keywords": "cc0, citation, dataset, development-economics, economics, europe, fair-data, gdp, juan-moises-de-la-serna, latin-america, macroeconomics, open-data, open-science, orcid, research, spain, zenodo"
 }
