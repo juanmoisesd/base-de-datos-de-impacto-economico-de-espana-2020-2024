@@ -31,21 +31,16 @@ tags:
 
 # Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de 
 
-- **DOI:** [https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024](https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024)
-- **GitHub:** [juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024](https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024)
-- **License:** CC BY 4.0
-- **Author:** de la Serna, Juan Moisés
+**DOI:** [https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024](https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024) | **GitHub:** [juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024](https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024) | **License:** CC BY 4.0
 
-## Load
-
+## Quick load
 ```python
 import pandas as pd
-# See Zenodo for actual filenames
-df = pd.read_csv("https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024/files/data.csv")
+# See https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024 for file listing
+df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Citation
-
+## Cite
 ```bibtex
 @dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Este dataset recopila indicadores macroecon&oacute;micos y f},year={2025},doi={https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024},url={https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024}}
 ```
