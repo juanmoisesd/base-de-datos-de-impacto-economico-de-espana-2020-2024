@@ -2,9 +2,7 @@
 language:
   - es
 license: cc-by-4.0
-task_categories:
-  - tabular-classification
-pretty_name: "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de "
+pretty_name: "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de " 
 tags:
   - cc0
   - citation
@@ -24,23 +22,18 @@ tags:
   - spain
   - zenodo
   - zenodo
-  - research
   - latin-america
   - open-science
 ---
-
 # Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de 
 
-**DOI:** [https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024](https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024) | **GitHub:** [juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024](https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024) | **License:** CC BY 4.0
+**DOI:** [https://juanmoisesd.github.io/base-de-datos-de-impacto-economico-de-espana-2020-2024/](https://juanmoisesd.github.io/base-de-datos-de-impacto-economico-de-espana-2020-2024/) | **Author:** de la Serna, Juan Moisés
 
-## Quick load
 ```python
 import pandas as pd
-# See https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024 for file listing
 df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Cite
 ```bibtex
-@dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Este dataset recopila indicadores macroecon&oacute;micos y f},year={2025},doi={https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024},url={https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024}}
+@dataset{ds2025,author={de la Serna, Juan Moisés},title={Este dataset recopila indicadores macroecon&oacute},year={2025},doi={https://juanmoisesd.github.io/base-de-datos-de-impacto-economico-de-espana-2020-2024/},url={https://juanmoisesd.github.io/base-de-datos-de-impacto-economico-de-espana-2020-2024/}}
 ```
