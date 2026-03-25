@@ -3,24 +3,18 @@
   "@type": "SoftwareSourceCode",
   "name": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de Espa&ntilde;a para e",
   "version": "1.0.0",
-  "identifier": "https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024",
-  "datePublished": "2025",
+  "identifier": "https://juanmoisesd.github.io/base-de-datos-de-impacto-economico-de-espana-2020-2024/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "codeRepository": "https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
-      }
+      "familyName": "de la Serna"
     }
   ],
   "programmingLanguage": [
     "Python",
     "Jupyter Notebook"
-  ],
-  "keywords": "cc0, citation, dataset, development-economics, economics, europe, fair-data, gdp, juan-moises-de-la-serna, latin-america, macroeconomics, open-data, open-science, orcid, research, spain, zenodo"
+  ]
 }
