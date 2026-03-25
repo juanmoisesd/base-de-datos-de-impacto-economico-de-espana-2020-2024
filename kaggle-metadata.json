@@ -1,0 +1,23 @@
+{
+  "title": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de ",
+  "id": "juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "dataset",
+    "development-economics",
+    "economics",
+    "europe",
+    "fair-data",
+    "gdp",
+    "juan-moises-de-la-serna",
+    "latin-america"
+  ],
+  "description": "Este dataset recopila indicadores macroecon&oacute;micos y financieros clave de Espa&ntilde;a para el per&iacute;odo 2020&ndash;2024. Incluye cinco tablas estructuradas: (1) Indicadores Macroecon&oacute;micos (crecimiento del PIB, inflaci&oacute;n, d\n\nDOI: https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024\nGitHub: https://github.com/juanmoisesd/base-de-datos-de-impacto-economico-de-espana-2020-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
